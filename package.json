@@ -1,7 +1,7 @@
 {
   "name": "test-promise",
   "version": "1.0.0",
-  "description": "Codesandbox for testing promise knowledge",
+  "description": "CodeSandbox for testing promise knowledge",
   "main": "index.js",
   "scripts": {
     "test": "jest",
