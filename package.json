@@ -1,13 +1,15 @@
 {
   "name": "test-promise",
   "version": "1.0.0",
-  "description": "CodeSandbox for testing promise knowledge",
+  "description": "Codesandbox for testing promise knowledge",
   "main": "index.js",
   "scripts": {
     "test": "jest",
     "test:w": "jest --watchAll"
   },
-  "keywords": [],
+  "keywords": [
+    "promise"
+  ],
   "author": "Nam Nguyen",
   "license": "ISC",
   "devDependencies": {
