@@ -8,7 +8,7 @@
     "test:w": "jest --watchAll"
   },
   "keywords": ["promise"],
-  "author": "Nam Nguyen",
+  "author": "Nam Nguyen <nam.nguyen.node@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.14.6",
