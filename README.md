@@ -1,2 +1,2 @@
 # test-promise
-Repository for testing promise knowledge
+CodeSandbox for testing promise knowledge 🎉
