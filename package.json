@@ -7,9 +7,7 @@
     "test": "jest",
     "test:w": "jest --watchAll"
   },
-  "keywords": [
-    "promise"
-  ],
+  "keywords": ["promise"],
   "author": "Nam Nguyen",
   "license": "ISC",
   "devDependencies": {
