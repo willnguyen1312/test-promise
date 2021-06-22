@@ -90,7 +90,7 @@ it.skip("should work for Promise.finally", async () => {
 
 it.skip("should work for Promise.allSettled", async () => {
   const promise1 = MyPromise.resolve(3);
-  const promise2 = new MyPromise((_, reject) => setTimeout(reject, 100, "foo"));
+  const promise2 = MyPromise((_, reject) => setTimeout(reject, 100, "foo"));
   const promises = [promise1, promise2];
 
   const data = await MyPromise.allSettled(promises);
