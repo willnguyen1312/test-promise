@@ -97,6 +97,6 @@ it.skip("should work for Promise.allSettled", async () => {
 
   expect(data).toEqual([
     { status: "fulfilled", value: 3 },
-    { status: "rejected", reason: "foo" },
+    { status: "rejected", reason: "foo" }
   ]);
 });
